@@ -1,0 +1,26 @@
+GoalLimit : 10 margin : 0 TimeLimit : 10 time elapsed : 7306258400 results : 1:0 colors: player 1 : java.awt.Color[r=255,g=0,b=0] player 2 : java.awt.Color[r=0,g=0,b=0] player 1 name : Arash player 2 name : Arash notFinished
+GoalLimit : 10 margin : 5 TimeLimit : 10 time elapsed : 38622585900 results : 1:2 colors: player 1 : java.awt.Color[r=0,g=0,b=0] player 2 : java.awt.Color[r=255,g=0,b=0] player 1 name : Man player 2 name : To notFinished
+TimeLimit : 10 time elapsed : 1085524800 results : 0:0 colors: player 1 : java.awt.Color[r=0,g=0,b=255] player 2 : java.awt.Color[r=0,g=0,b=255] player 1 name :  player 2 name :  notFinished
+TimeLimit : 10 time elapsed : 956529600 results : 0:0 colors: player 1 : java.awt.Color[r=0,g=0,b=255] player 2 : java.awt.Color[r=0,g=0,b=255] player 1 name :  player 2 name :  notFinished
+TimeLimit : 10 time elapsed : 561582800 results : 0:0 colors: player 1 : java.awt.Color[r=0,g=0,b=255] player 2 : java.awt.Color[r=0,g=0,b=255] player 1 name :  player 2 name :  notFinished
+TimeLimit : 10 time elapsed : 317960200 results : 0:0 colors: player 1 : java.awt.Color[r=0,g=0,b=255] player 2 : java.awt.Color[r=0,g=0,b=255] player 1 name :  player 2 name :  notFinished
+TimeLimit : 10 time elapsed : 710071200 results : 0:0 colors: player 1 : java.awt.Color[r=0,g=0,b=255] player 2 : java.awt.Color[r=0,g=0,b=255] player 1 name :  player 2 name :  notFinished
+TimeLimit : 10 time elapsed : 742105200 results : 0:0 colors: player 1 : java.awt.Color[r=0,g=0,b=255] player 2 : java.awt.Color[r=0,g=0,b=255] player 1 name :  player 2 name :  notFinished
+TimeLimit : 10 time elapsed : 636390800 results : 0:0 colors: player 1 : java.awt.Color[r=0,g=0,b=255] player 2 : java.awt.Color[r=0,g=0,b=255] player 1 name :  player 2 name :  notFinished
+GoalLimit : 5 margin : 3 time elapsed : 265306800800 results : 3:6 colors: player 1 : java.awt.Color[r=0,g=0,b=255] player 2 : java.awt.Color[r=0,g=0,b=0] player 1 name : Arash player 2 name : Saeed finished
+TimeLimit : 1 time elapsed : 60022780500 results : 0:0 colors: player 1 : java.awt.Color[r=0,g=0,b=255] player 2 : java.awt.Color[r=0,g=0,b=255] player 1 name :  player 2 name :  finished
+TimeLimit : 10 time elapsed : 30292568600 results : 2:2 colors: player 1 : java.awt.Color[r=0,g=0,b=255] player 2 : java.awt.Color[r=0,g=0,b=255] player 1 name :  player 2 name :  notFinished
+TimeLimit : 1 time elapsed : 60018317400 results : 5:4 colors: player 1 : java.awt.Color[r=0,g=0,b=255] player 2 : java.awt.Color[r=0,g=0,b=255] player 1 name :  player 2 name :  finished
+TimeLimit : 1 time elapsed : 34768388700 results : 0:1 colors: player 1 : java.awt.Color[r=0,g=0,b=255] player 2 : java.awt.Color[r=0,g=0,b=255] player 1 name :  player 2 name :  notFinished
+TimeLimit : 10 time elapsed : 55481318700 results : 0:0 colors: player 1 : java.awt.Color[r=0,g=0,b=255] player 2 : java.awt.Color[r=0,g=0,b=255] player 1 name :  player 2 name :  notFinished
+TimeLimit : 10 time elapsed : 39633921700 results : 1:0 colors: player 1 : java.awt.Color[r=0,g=0,b=255] player 2 : java.awt.Color[r=0,g=0,b=255] player 1 name :  player 2 name :  notFinished
+TimeLimit : 10 time elapsed : 63493678200 results : 1:0 colors: player 1 : java.awt.Color[r=0,g=0,b=255] player 2 : java.awt.Color[r=0,g=0,b=255] player 1 name :  player 2 name :  notFinished
+TimeLimit : 10 time elapsed : 172252396000 results : 10:5 colors: player 1 : java.awt.Color[r=0,g=0,b=255] player 2 : java.awt.Color[r=0,g=0,b=255] player 1 name :  player 2 name :  notFinished
+TimeLimit : 10 time elapsed : 61545130300 results : 1:0 colors: player 1 : java.awt.Color[r=0,g=0,b=255] player 2 : java.awt.Color[r=0,g=0,b=255] player 1 name :  player 2 name :  notFinished
+TimeLimit : 10 time elapsed : 600017063600 results : 1:0 colors: player 1 : java.awt.Color[r=0,g=0,b=255] player 2 : java.awt.Color[r=0,g=0,b=255] player 1 name :  player 2 name :  finished
+TimeLimit : 10 time elapsed : 41770123600 results : 0:0 colors: player 1 : java.awt.Color[r=0,g=0,b=255] player 2 : java.awt.Color[r=0,g=0,b=255] player 1 name :  player 2 name :  notFinished
+TimeLimit : 10 time elapsed : 85003836300 results : 1:0 colors: player 1 : java.awt.Color[r=0,g=0,b=255] player 2 : java.awt.Color[r=0,g=0,b=255] player 1 name :  player 2 name :  notFinished
+TimeLimit : 10 time elapsed : 43612681000 results : 2:2 colors: player 1 : java.awt.Color[r=0,g=0,b=255] player 2 : java.awt.Color[r=0,g=0,b=255] player 1 name :  player 2 name :  notFinished
+TimeLimit : 10 time elapsed : 94511428500 results : 7:6 colors: player 1 : java.awt.Color[r=0,g=0,b=255] player 2 : java.awt.Color[r=0,g=0,b=255] player 1 name :  player 2 name :  notFinished
+TimeLimit : 10 time elapsed : 15226672000 results : 2:2 colors: player 1 : java.awt.Color[r=0,g=0,b=255] player 2 : java.awt.Color[r=0,g=0,b=255] player 1 name :  player 2 name :  notFinished
+TimeLimit : 10 time elapsed : 518317526400 results : 5:4 colors: player 1 : java.awt.Color[r=0,g=0,b=255] player 2 : java.awt.Color[r=0,g=0,b=255] player 1 name :  player 2 name :  notFinished
